@@ -1,0 +1,5 @@
+C:\Users\LAB104BPC16\Documents\Projects\SumaDeDosNumeros\SumaDeDosNumeros\bin\Debug\SumaDeDosNumeros.exe
+C:\Users\LAB104BPC16\Documents\Projects\SumaDeDosNumeros\SumaDeDosNumeros\bin\Debug\SumaDeDosNumeros.pdb
+C:\Users\LAB104BPC16\Documents\Projects\SumaDeDosNumeros\SumaDeDosNumeros\obj\x86\Debug\SumaDeDosNumeros.csprojResolveAssemblyReference.cache
+C:\Users\LAB104BPC16\Documents\Projects\SumaDeDosNumeros\SumaDeDosNumeros\obj\x86\Debug\SumaDeDosNumeros.exe
+C:\Users\LAB104BPC16\Documents\Projects\SumaDeDosNumeros\SumaDeDosNumeros\obj\x86\Debug\SumaDeDosNumeros.pdb
